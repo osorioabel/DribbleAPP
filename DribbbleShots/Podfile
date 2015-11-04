@@ -1,0 +1,7 @@
+platform :ios, "7.0"
+pod 'AFNetworking', '~> 2.6'
+pod 'SDWebImage', '~> 3.7'
+pod 'SVPullToRefresh', '~> 0.4'
+pod 'MRProgress'
+pod 'Mantle', '~> 2.0'
+pod 'UIImage-Resize', '~> 1.0'
