@@ -1,7 +1,5 @@
 # Create an App reading the Dribble's API [Dribbble](https://dribbble.com) #
 
-** This app should be written in Objective-C, solutions using Swift will be considered a plus but Obj-C is mandatory **
-
 Create an App to read the [Dribbble API](http://developer.dribbble.com/v1/) and load the most popular shots.
 The layout should be based on the given mockup:
 
